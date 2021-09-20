@@ -13,7 +13,7 @@
     "sinon": "^9.0.2"
   },
   "devDependencies": {
-    "react-scripts": "3.4.1"
+    "react-scripts": "^1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
